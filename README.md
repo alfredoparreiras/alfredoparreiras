@@ -20,7 +20,7 @@ public:
 
 <p align="center">
 <a href="https://github.com/alfredoparreiras">
-  <img weight="210em" height="200em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alfredoparreiras&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img weight="210em" height="200em" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alfredoparreiras&layout=compact&langs_count=8&theme=algolia"/>
+  <img weight="210em" height="190em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alfredoparreiras&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img weight="210em" height="190em" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alfredoparreiras&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
