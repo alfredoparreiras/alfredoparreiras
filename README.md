@@ -24,3 +24,7 @@ public:
   <img weight="160em" height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alfredoparreiras&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+<div> 
+  <figure><embed src="https://wakatime.com/share/@1251d524-fbcb-48a9-8e76-1d1c99c3d736/2178b725-bd75-4774-ab69-ab97e2098038.svg"></embed></figure>
+</div>
